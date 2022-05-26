@@ -74,8 +74,16 @@ p {
   width: 200px;
 }
 
+.content {
+  margin: 30px;
+}
+
 .content-container {
   padding: 120px 60px;
+}
+
+.content p {
+  font-size: 14px;
 }
 
 .content h1 {
@@ -93,14 +101,6 @@ p {
   line-height: 1.5;
   margin: 20px 0 5px 0;
   font-family: var(--default-font-family);
-}
-
-.content p {
-  font-size: 14px;
-}
-
-.content {
-  margin: 30px;
 }
 
 @media (max-width: 900px) {
