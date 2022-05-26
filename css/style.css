@@ -79,7 +79,7 @@ p {
 }
 
 .content-container {
-  padding: 120px 60px;
+  padding: 80px 60px;
 }
 
 .content p {
@@ -101,6 +101,10 @@ p {
   line-height: 1.5;
   margin: 20px 0 5px 0;
   font-family: var(--default-font-family);
+}
+
+.active {
+  color: var(--branding-color) !important;
 }
 
 @media (max-width: 900px) {
