@@ -74,21 +74,21 @@ p {
   width: 200px;
 }
 
-.about-section {
+.content-container {
   padding: 120px 60px;
 }
 
-.about-section h1 {
+.content-container h1 {
   font-size: 64px;
   line-height: 80px;
 }
 
-.about-section h2 {
+.content-container h2 {
   font-size: 18px;
   font-family: var(--default-font-family);
 }
 
-.about-section-content {
+.content {
   margin: 30px;
 }
 
@@ -118,6 +118,6 @@ p {
   }
 
   .about-section h1 {
-    font-size: 48px;
+    font-size: 44px;
   }
 }
