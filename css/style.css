@@ -158,6 +158,10 @@ footer .contact-box p {
     font-size: 42px;
   }
 
+  footer h4 {
+    font-size: 26px;
+  }
+
   .project-description {
     padding: 25px 30px;
     text-align: center;
