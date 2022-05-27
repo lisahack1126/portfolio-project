@@ -36,7 +36,7 @@ p {
 
 .hero {
   background-color: var(--secondary-color);
-  padding: 160px 20px;
+  padding: 100px 20px;
   text-align: center;
 }
 
@@ -107,7 +107,7 @@ p {
   color: var(--branding-color) !important;
 }
 
-footer h4 {
+footer h3 {
   font-size: 48px;
 }
 
@@ -158,7 +158,7 @@ footer .contact-box p {
     font-size: 42px;
   }
 
-  footer h4 {
+  footer h3 {
     font-size: 26px;
   }
 
